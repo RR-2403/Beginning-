@@ -1,2 +1,3 @@
-# Beginning-
+# Beginning
 THIS IS MY FIRST GITHUB REPOSITORY!
+BY- RAJDEEP ROY
